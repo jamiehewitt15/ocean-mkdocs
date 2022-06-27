@@ -1,1 +1,3 @@
 site_name: Ocean Docs
+theme:
+    name: readthedocs

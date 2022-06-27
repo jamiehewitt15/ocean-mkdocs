@@ -13,3 +13,6 @@ build:
 
 mkdocs:
   configuration: mkdocs.yml
+jobs:
+  pre_build:
+    - pip install mkdocs==1.3.0
